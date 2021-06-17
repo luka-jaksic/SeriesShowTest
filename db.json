@@ -1,0 +1,124 @@
+{
+    "series":[
+      {
+        "id": 1,
+        "title": "Jibaku Shounen Hanako-kun",
+        "author": "AidaIro",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+        "tags": ["Romance", "Comedy", "Supernatural"],
+        "description": "Kamome Academy is famous for its rumors regarding its Seven Wonders and supernatural occurrences. Nene Yashiro, a first-year high-school student who loves the occult and wishes for a boyfriend, summons the Seventh and most famous Wonder, Hanako-san of the Toilet, a girl who allegedly haunts the bathroom and can grant wishes for the right price."
+      },
+      {
+        "id": 2,
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+        "tags": ["Action", "Shonen", "School"],
+        "description": "In Jujutsu Kaisen, all living beings emanate an energy called Cursed Energy, which arises from negative emotions that naturally flow throughout the body. Normal people cannot control this flow in their bodies. As a result, they continually lose Cursed Energy, resulting in the birth of Curses, a race of spiritual beings whose primary desire is to bring harm to humanity."
+      },
+      {
+        "id": 3,
+        "title": "Infinite Stratos",
+        "author": "Izuru Yumizuru",
+        "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+        "tags": ["Harem", "Mecha Anime", "Romantic Comedy"],
+        "description": "Set in the near future, a powered exoskeleton called Infinite Stratos (IS), which possesses advanced technology and combat capabilities, changes the world including a major effect on society, as only women can pilot IS. The story focuses on Ichika Orimura, discovered to be the first ever male IS pilot."
+      },
+      {
+        "id": 4,
+        "title": "Jibaku Shounen Hanako-kun",
+        "author": "AidaIro",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+        "tags": ["Romance", "Comedy", "Supernatural"],
+        "description": "Kamome Academy is famous for its rumors regarding its Seven Wonders and supernatural occurrences. Nene Yashiro, a first-year high-school student who loves the occult and wishes for a boyfriend, summons the Seventh and most famous Wonder, Hanako-san of the Toilet, a girl who allegedly haunts the bathroom and can grant wishes for the right price."
+      },
+      {
+        "id": 5,
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+        "tags": ["Action", "Shonen", "School"],
+        "description": "In Jujutsu Kaisen, all living beings emanate an energy called Cursed Energy, which arises from negative emotions that naturally flow throughout the body. Normal people cannot control this flow in their bodies. As a result, they continually lose Cursed Energy, resulting in the birth of Curses, a race of spiritual beings whose primary desire is to bring harm to humanity."
+      },
+      {
+        "id": 6,
+        "title": "Infinite Stratos",
+        "author": "Izuru Yumizuru",
+        "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+        "tags": ["Harem", "Mecha Anime", "Romantic Comedy"],
+        "description": "Set in the near future, a powered exoskeleton called Infinite Stratos (IS), which possesses advanced technology and combat capabilities, changes the world including a major effect on society, as only women can pilot IS. The story focuses on Ichika Orimura, discovered to be the first ever male IS pilot."
+      },
+      {
+        "id": 7,
+        "title": "Jibaku Shounen Hanako-kun",
+        "author": "AidaIro",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+        "tags": ["Romance", "Comedy", "Supernatural"],
+        "description": "Kamome Academy is famous for its rumors regarding its Seven Wonders and supernatural occurrences. Nene Yashiro, a first-year high-school student who loves the occult and wishes for a boyfriend, summons the Seventh and most famous Wonder, Hanako-san of the Toilet, a girl who allegedly haunts the bathroom and can grant wishes for the right price."
+      },
+      {
+        "id": 8,
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+        "tags": ["Action", "Shonen", "School"],
+        "description": "In Jujutsu Kaisen, all living beings emanate an energy called Cursed Energy, which arises from negative emotions that naturally flow throughout the body. Normal people cannot control this flow in their bodies. As a result, they continually lose Cursed Energy, resulting in the birth of Curses, a race of spiritual beings whose primary desire is to bring harm to humanity."
+      },
+      {
+        "id": 9,
+        "title": "Infinite Stratos",
+        "author": "Izuru Yumizuru",
+        "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+        "tags": ["Harem", "Mecha Anime", "Romantic Comedy"],
+        "description": "Set in the near future, a powered exoskeleton called Infinite Stratos (IS), which possesses advanced technology and combat capabilities, changes the world including a major effect on society, as only women can pilot IS. The story focuses on Ichika Orimura, discovered to be the first ever male IS pilot."
+      },
+      {
+        "id": 10,
+        "title": "Jibaku Shounen Hanako-kun",
+        "author": "AidaIro",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+        "tags": ["Romance", "Comedy", "Supernatural"],
+        "description": "Kamome Academy is famous for its rumors regarding its Seven Wonders and supernatural occurrences. Nene Yashiro, a first-year high-school student who loves the occult and wishes for a boyfriend, summons the Seventh and most famous Wonder, Hanako-san of the Toilet, a girl who allegedly haunts the bathroom and can grant wishes for the right price."
+      },
+      {
+        "id": 11,
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+        "tags": ["Action", "Shonen", "School"],
+        "description": "In Jujutsu Kaisen, all living beings emanate an energy called Cursed Energy, which arises from negative emotions that naturally flow throughout the body. Normal people cannot control this flow in their bodies. As a result, they continually lose Cursed Energy, resulting in the birth of Curses, a race of spiritual beings whose primary desire is to bring harm to humanity."
+      },
+      {
+        "id": 12,
+        "title": "Infinite Stratos",
+        "author": "Izuru Yumizuru",
+        "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+        "tags": ["Harem", "Mecha Anime", "Romantic Comedy"],
+        "description": "Set in the near future, a powered exoskeleton called Infinite Stratos (IS), which possesses advanced technology and combat capabilities, changes the world including a major effect on society, as only women can pilot IS. The story focuses on Ichika Orimura, discovered to be the first ever male IS pilot."
+      },
+      {
+        "id": 13,
+        "title": "Jibaku Shounen Hanako-kun",
+        "author": "AidaIro",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+        "tags": ["Romance", "Comedy", "Supernatural"],
+        "description": "Kamome Academy is famous for its rumors regarding its Seven Wonders and supernatural occurrences. Nene Yashiro, a first-year high-school student who loves the occult and wishes for a boyfriend, summons the Seventh and most famous Wonder, Hanako-san of the Toilet, a girl who allegedly haunts the bathroom and can grant wishes for the right price."
+      },
+      {
+        "id": 14,
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+        "tags": ["Action", "Shonen", "School"],
+        "description": "In Jujutsu Kaisen, all living beings emanate an energy called Cursed Energy, which arises from negative emotions that naturally flow throughout the body. Normal people cannot control this flow in their bodies. As a result, they continually lose Cursed Energy, resulting in the birth of Curses, a race of spiritual beings whose primary desire is to bring harm to humanity."
+      },
+      {
+        "id": 15,
+        "title": "Infinite Stratos",
+        "author": "Izuru Yumizuru",
+        "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+        "tags": ["Harem", "Mecha Anime", "Romantic Comedy"],
+        "description": "Set in the near future, a powered exoskeleton called Infinite Stratos (IS), which possesses advanced technology and combat capabilities, changes the world including a major effect on society, as only women can pilot IS. The story focuses on Ichika Orimura, discovered to be the first ever male IS pilot."
+      }
+    ]
+  }
